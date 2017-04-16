@@ -17,6 +17,7 @@ module HumanApi
 							:profile, 
 							:activities, 
 							:blood_glucose, 
+							:blood_oxygen, 
 							:blood_pressure, 
 							:body_fat, 
 							:genetic_traits, 
